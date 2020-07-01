@@ -1,0 +1,15 @@
+https://dba.stackexchange.com/questions/122025/connect-mysql-workbench-with-mysql-container
+
+https://stackoverflow.com/questions/50248658/cant-connect-to-mysql-container-from-mysql-workbench-windows-10
+
+https://stackoverflow.com/questions/33827342/how-to-connect-mysql-workbench-to-running-mysql-inside-docker
+
+https://stackoverflow.com/questions/54124076/how-to-open-the-mysql-container-docker-in-the-mysql-workbench
+
+https://github.com/docker-library/mysql/issues/274
+
+https://stackoverflow.com/questions/56252358/connecting-to-mysql-container-from-mysqlworkbench
+
+https://stackoverflow.com/questions/17157721/how-to-get-a-docker-containers-ip-address-from-the-host
+
+https://stackoverflow.com/questions/46791008/connecting-to-docker-mysql-using-mysql-workbench
